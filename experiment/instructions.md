@@ -87,7 +87,9 @@ additional parameter ```size=N``` can be passed into the constructor
 (the default is 4). You can experiment with changing this and see what
 impact it has.
 
-You could add additional caching strategies to compare.
+You could add additional caching strategies to compare. See the
+instructions for the ```caching``` exercise for suggestions around
+other strategies. 
 
 You may also want to look at presenting the results in a nice way, for
 example using graphs or histograms.

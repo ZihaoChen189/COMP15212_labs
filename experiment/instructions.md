@@ -3,6 +3,9 @@
 This exercise asks you to explore the results of applying caching
 strategies.
 
+The exercise is *summative*: the mark given contributes to your mark
+for the unit.
+
 In the formative exercise, you will have implemented two different
 strategies for caching: including Cyclic and Least Recently Used.
 
